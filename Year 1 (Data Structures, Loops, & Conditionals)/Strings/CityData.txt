@@ -1,0 +1,16 @@
+Austin 82
+Raleigh 75
+Montgomery 82
+Denver 72
+Hartford 68
+Phoenix 86
+Dover 75
+Tallahassee 90
+Honolulu 81
+Atlanta 80
+Boise 72
+Springfield 74
+Augusta 72
+Annapolis 74
+Trenton 77
+Concord 75
